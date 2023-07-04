@@ -4,4 +4,4 @@ At the request of a client, I developed a system for tracking the inventory of m
 
 Through the use of buttons, the end user can input data automatically and also record daily operations. 
 
-This was a client requirement, and we fulfilled it exactly as requested, respecting their decisions even though we had recommended better data management practices.
+This was a client requirement, and I fulfilled it exactly as requested, respecting their decisions even though I had recommended better data management practices.
