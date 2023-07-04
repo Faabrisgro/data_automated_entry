@@ -1,2 +1,7 @@
 # Automated Data Entry in Google Sheets with Google App Scripts 
-Introducing our cutting-edge automated menu, powered by Google Apps Scripts! This revolutionary tool empowers users to effortlessly maintain and manage their very own customized inventory system for their products. With intuitive features and seamless integration, our solution enables easy tracking, updating, and organization of inventory data. Say goodbye to tedious manual processes and hello to efficient inventory management at your fingertips. Embrace the future of product inventory control with our automated menu built on the power of Google Apps Scripts.
+
+At the request of a client, I developed a system for tracking the inventory of mobile devices and accessories using Google Apps Scripts and Google Sheets.
+
+Through the use of buttons, the end user can input data automatically and also record daily operations. 
+
+This was a client requirement, and we fulfilled it exactly as requested, respecting their decisions even though we had recommended better data management practices.
